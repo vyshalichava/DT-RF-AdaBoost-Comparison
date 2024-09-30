@@ -11,7 +11,7 @@ Handling Missing Values: Missing values in columns like "Age," "Embarked," and "
 Encoding Categorical Variables: The categorical variables such as "Sex" and "Embarked" are encoded using LabelEncoder to convert them into numeric values for the model.
 The dataset is split into features (X) and the target variable (y), followed by a train-test split to create training and testing sets.
 
-**Models Implemented:
+**Models Implemented:**
 
 Custom Decision Tree Classifier:**
 Criterion: Gini impurity is used to split nodes.
