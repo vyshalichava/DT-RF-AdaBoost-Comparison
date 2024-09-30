@@ -53,3 +53,5 @@ This is the correlation matrix:
 Decision Tree: Achieved a balanced trade-off between complexity and accuracy.
 AdaBoost: Performed better by boosting the decision trees, reducing bias, and improving accuracy.
 Random Forest: Likely to have the highest accuracy due to the aggregation of multiple trees, providing better generalization.
+
+The Random Forest model provided the best performance overall, achieving the highest ROC-AUC score and a competitive accuracy. Both the Decision Tree and Random Forest models showed solid results, while AdaBoost underperformed slightly. Ensemble methods such as Random Forest are highly effective for this type of classification task, especially when dealing with complex, multi-dimensional data.
